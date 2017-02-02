@@ -1,0 +1,22 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "422c6156-0ef1-4462-b98e-7e67c7d356e3",
+  "alias": "ZionWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "422c6156-0ef1-4462-b98e-7e67c7d356e3",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Zion" },
+    "description": { "default": "Controll center" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "title:": "Zion",
+      "description": "Zion",
+      "url": "https://github.com/SharePoint/sp-dev-docs/wiki"
+    }
+  }]
+}
